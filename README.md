@@ -5,7 +5,7 @@ Check out the [Issues tab](https://github.com/opportunity-hack/Arizona/issues) t
 
 # Archive
 
-- 2019 [DevPost](https://opportunity-hack-2019-arizona.devpost.com/) | [GitHub](https://github.com/2018-Arizona-Opportunity-Hack)
+- 2019 [DevPost](https://opportunity-hack-2019-arizona.devpost.com/) | [GitHub](https://github.com/2019-Arizona-Opportunity-Hack)
 - 2018 [DevPost](https://opportunity-hack-2018-arizona.devpost.com//submissions) | [GitHub](https://github.com/2018-Arizona-Opportunity-Hack)
 - 2017 [DevPost](https://opportunity-hack-2017-arizona.devpost.com//submissions) | [GitHub](https://github.com/2017-Arizona-Opportunity-Hack)
 - 2016 [DevPost](https://opportunity-hack-arizona-2016.devpost.com/submissions) | [GitHub](https://github.com/Opportunity-Hack-2016-AZ)
