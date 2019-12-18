@@ -11,6 +11,11 @@ Check out the [Issues tab](https://github.com/opportunity-hack/Arizona/issues) t
 - 2015 [DevPost](https://opportunity-hack-2015-arizona.devpost.com//submissions) | [GitHub](https://github.com/Opportunity-Hack-2015-Arizona)
 
 # Senior capstones
+We continue to partner with our local community by surveying the landscape of Opportunity Hack problem statements over the years, then focusing on specific general solutions that can benefit the non-profit community.  After distilling all problems we've seen, we submitted the following proposals to work together with ASU and The University of Arizona.
+
+![](https://media.licdn.com/dms/image/C5612AQEswX3_CdFz9g/article-cover_image-shrink_720_1280/0?e=1582156800&v=beta&t=qvotVjFiHxrvqn88HEf8cGgcBB9U2ZMBlbMYXfvNDMc)
+
+More on capstones in this blog post [Sponsor a capstone. Disrupt ancient talent acquisition methods, mentor, give back, increase innovation.](https://www.linkedin.com/pulse/sponsor-capstone-disrupt-ancient-talent-acquisition-methods-vannoni/)
 ## 2019
 - ASU Tempe [Digitize Paper Forms with Machine Learning Part 2](https://docs.google.com/document/d/1nXNlYUaABAfAKbmi1ZnU79VgFa7B5NLPTkdw4dxIRVU/edit?usp=sharing)
 - ASU Polytechnic [Food Pantry IoT Scale](https://docs.google.com/document/d/1TwyGg_hJp6OiigOHFUks9FWNREAxSpiRdNPM2UIgO0c/edit?usp=sharing)
